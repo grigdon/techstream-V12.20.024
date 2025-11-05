@@ -8,7 +8,6 @@ Before you begin, ensure you have the following:
 
 - A computer running Ubuntu 24.04 LTS
 - A MINI-VCI (J2534) cable
-- The pre-configured Techstream VM .ova file
 
 ## Step 1: Download the Pre-configured VM
 
